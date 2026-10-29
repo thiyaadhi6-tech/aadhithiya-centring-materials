@@ -1,0 +1,6 @@
+{
+  "name": "AADHITHIYA CENTERING MATERIAL RENTAL",
+  "description": "Counter sales, inventory management, purchase entry, customer balance tracking, and profit & loss reports for Aadhithiya Centering Material Rental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
